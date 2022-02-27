@@ -1,0 +1,457 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands captivity returned with a farwel to common-wealths : to the tune of, The brave sons of Mars.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83950</idno>
+            <idno type="STC">Wing E2951A</idno>
+            <idno type="STC">ESTC R43851</idno>
+            <idno type="EEBO-CITATION">42475417</idno>
+            <idno type="OCLC">ocm 42475417</idno>
+            <idno type="VID">151132</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83950)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151132)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2245:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands captivity returned with a farwel to common-wealths : to the tune of, The brave sons of Mars.</title>
+               </titleStmt>
+               <extent>[2] leaves : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Grove dwelling on Snow-hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1660?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First leaf contains two woodcuts, Charles II, and possibly O. Cromwell; second leaf contains one woodcut, imprint, and "The second part, to the same Tune."</note>
+                  <note>This item is filmed with a second leaf from an unrelated ballad between the first and second leaf, which is about Arabella Stuart.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Poetry.</term>
+               <term>Stuart, Arabella, --  Lady, 1575-1615 --  Poetry.</term>
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="ballad">
+                  <div n="1" type="part">
+                     <pb facs="tcp:151132:1"/>
+                     <!-- PDF PAGE 28 -->
+                     <head>Englands Captivity Returned, With A Farwel to COMMON-WEALTHS.</head>
+                     <opener>To the Tune of, The brave Sons of Mars.</opener>
+                     <p>
+                        <figure>
+                           <figDesc>portraits of Charles II and (possibly) Oliver Cromwell</figDesc>
+                        </figure>
+                     </p>
+                     <lg>
+                        <l>COme lets now reioyce,</l>
+                        <l>All with a loud voice,</l>
+                        <l>at the return of <hi>charles</hi> our King,</l>
+                        <l>VVith a hearty good prayer,</l>
+                        <l>He may never come there,</l>
+                        <l>where ſhe Traytors his Father did bring</l>
+                     </lg>
+                     <lg>
+                        <l>Let us all make a noiſe,</l>
+                        <l>Both young men and boyes,</l>
+                        <l>with a great acclamation of ioy</l>
+                        <l>VVhilſt thoſe Traytors lament,</l>
+                        <l>(But want grace t repent)</l>
+                        <l>which ſo long did our king annoy.</l>
+                     </lg>
+                     <lg>
+                        <l>Farwel a frée State,</l>
+                        <l>Such Raſcals we hate,</l>
+                        <l>as we here of late dayes have had,</l>
+                        <l>Such Plots theyd contrive,</l>
+                        <l>VVhen they were alive,</l>
+                        <l>enough for to make us all mad.</l>
+                     </lg>
+                     <lg>
+                        <l>But wée let them alone,</l>
+                        <l>VVhich from hence are gone,</l>
+                        <l>cauſe their reward will be paid them</l>
+                        <l>But leave them where they are,</l>
+                        <l>VVéel neither make or mar,</l>
+                        <l>nor never from thence wéel perſwade them</l>
+                     </lg>
+                     <lg>
+                        <l>My Lord <hi>Monck's</hi> the man,</l>
+                        <l>Though his lifes but a ſpan,</l>
+                        <l>he hath improved that little ſo well,</l>
+                        <l>That in true loyalty,</l>
+                        <l>I can none eſpie</l>
+                        <l>that can this great worthy excell.</l>
+                     </lg>
+                     <lg>
+                        <l>To bring home our King,</l>
+                        <l>Twas the only thing,</l>
+                        <l>could make all things well for the peo<g ref="char:EOLhyphen"/>ple,</l>
+                        <l>And ſuch ioy for't there was,</l>
+                        <l>As in the ſtréets I did paſs,</l>
+                        <l>that the Bells almoſt leapt out oth' Stéeple.</l>
+                     </lg>
+                  </div>
+                  <div n="2" type="part">
+                     <pb facs="tcp:151132:3"/>
+                     <!-- PDF PAGE 30 -->
+                     <head>The ſecond part, </head>
+                     <opener>to the ſame Tune.</opener>
+                     <p>
+                        <figure/>
+                     </p>
+                     <lg>
+                        <l>GOod Subjects and they</l>
+                        <l>That lov'd him did pray</l>
+                        <l>but Rebels did wiſh the ſhip</l>
+                        <l>Were caſt away</l>
+                        <l>for fear Divine Iuſtice</l>
+                        <l>Should turn them all ore,</l>
+                        <l>
+                           <hi>When Charles King of England is ſafe ſet on ſhore.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>The joy that did ring</l>
+                        <l>Iuſt at his landing</l>
+                        <l>did pierce the high heavens with</l>
+                        <l>
+                           <hi>GOD ſave the KING.</hi>
+                        </l>
+                        <l>the Rocks in an Eccho</l>
+                        <l>As loudly did roare,</l>
+                        <l>
+                           <hi>To ſee Charls the Second come ſafely, &amp;c.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>The Trumpets did ſound</l>
+                        <l>The Cliffes did rebound,</l>
+                        <l>with hands lift to heaven,</l>
+                        <l>And knees on the ground,</l>
+                        <l>they all did give thanks and</l>
+                        <l>True praiſes good ſtore,</l>
+                        <l>
+                           <hi>To ſee Charls the ſecond come, &amp;c.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>The Cannons at <hi>Dover,</hi>
+                        </l>
+                        <l>And every rover,</l>
+                        <l>did thunder with joy that</l>
+                        <l>The King was come over,</l>
+                        <l>ſome Caps were caſt up</l>
+                        <l>That they never ſaw more,</l>
+                        <l>
+                           <hi>For joy Charls the ſecond was ſafe, &amp;c.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>Men, women, and boyes,</l>
+                        <l>Did make ſuch a noyſe</l>
+                        <l>they ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ent &amp; Chriſtendom</l>
+                        <l>King with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>es.</l>
+                        <l>ſuch high <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>clamations</l>
+                        <l>Were nere there before,</l>
+                        <l>
+                           <hi>For joy Charls the ſecond was, &amp;c.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>The true men of <hi>Kent</hi>
+                        </l>
+                        <l>And all that was in't,</l>
+                        <l>deſerve their good déeds ſhould be</l>
+                        <l>Publiſh'd in Print.</l>
+                        <l>a Loyall juſt County</l>
+                        <l>And ſuffers ſore.</l>
+                        <l>
+                           <hi>Till Charls King of England was, &amp;c.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>Put on thy rich Robe</l>
+                        <l>Thy Crown and the Globe</l>
+                        <l>for thou haſt béen well nigh as</l>
+                        <l>Patient as <hi>Job,</hi>
+                        </l>
+                        <l>ſuch intricate hazzards were</l>
+                        <l>Nere known before,</l>
+                        <l>
+                           <hi>But thank<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> be to God thou art ſafe ſet, &amp;c</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>May every <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>new</l>
+                        <l>Of him ſtrong continue,</l>
+                        <l>true peace and proſperity</l>
+                        <l>Raiſe his Revennue,</l>
+                        <l>God bleſſe my Lord <hi>Monke</hi> too</l>
+                        <l>We humbly implore,</l>
+                        <l>
+                           <hi>By whom Charls the Second got ſafely on ſhore<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </hi>
+                        </l>
+                     </lg>
+                     <trailer>FINIS.</trailer>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>London, printed for F. Grove dwelling on Snow-hill. Entred according to order.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="ballad">
+                  <pb facs="tcp:151132:2"/>
+                  <!-- PDF PAGE 29 -->
+                  <head>
+                     <add>The True Lovers Knot Vntyed</add>
+                  </head>
+                  <div n="1" type="part">
+                     <p>
+                        <gap reason="missing" extent="1 page">
+                           <desc>〈1 page missing〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+                  <div n="2" type="part">
+                     <head>The ſecond part</head>
+                     <opener>to the ſame Tune.</opener>
+                     <p>
+                        <figure>
+                           <figDesc>depictions of a gentleman and of a lady.</figDesc>
+                        </figure>
+                     </p>
+                     <lg>
+                        <l>WHom of your Nobles will do ſo,</l>
+                        <l>for to main<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ain the Commonalty,</l>
+                        <l>Such multitvdes would never grow,</l>
+                        <l>nor be ſuch ſtore of poverty.</l>
+                     </lg>
+                     <lg>
+                        <l>I would I had a Milk-maid béen,</l>
+                        <l>or born of ſome more low degrée,</l>
+                        <l>Then I might have loved where I like,</l>
+                        <l>and no man could have hindered me.</l>
+                     </lg>
+                     <lg>
+                        <l>Or would I were ſome Yeomans chile,</l>
+                        <l>for to receive my portion now,</l>
+                        <l>According unto my degrée,</l>
+                        <l>as other Virgins whom I know.</l>
+                     </lg>
+                     <lg>
+                        <l>The higheſt branch that ſprings aloft,</l>
+                        <l>néeds muſt be ſhade the middle tré,</l>
+                        <l>Néeds muſt the ſhadow of them both,</l>
+                        <l>ſhadow the third in this degrée.</l>
+                     </lg>
+                     <lg>
+                        <l>But when the trée is cut and gone,</l>
+                        <l>and from the ground is born away,</l>
+                        <l>The loweſt tree that there doth ſtand,</l>
+                        <l>in time may grow as high as they.</l>
+                     </lg>
+                     <lg>
+                        <l>Once when I thought to have béen Quéen</l>
+                        <l>but yet that ſtill I do deny,</l>
+                        <l>I know your grace had right to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>h' Crown</l>
+                        <l>before <hi>Elizabeth</hi> did dy.</l>
+                     </lg>
+                     <lg>
+                        <l>You of the eldeſt Siſter came,</l>
+                        <l>I of the ſecond in degrée,</l>
+                        <l>The Earl of <hi>Hertford</hi> of the third,</l>
+                        <l>a man of Royall blood quo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>h ſhe.</l>
+                     </lg>
+                     <lg>
+                        <l>And ſo good night my Soveraign Liege,</l>
+                        <l>ſince in the Tower I muſt ly,</l>
+                        <l>I hope your Grace will condeſcend,</l>
+                        <l>that I may have my liberty.</l>
+                     </lg>
+                     <lg>
+                        <l>Lady <hi>Arebella</hi> ſaid our King,</l>
+                        <l>I to your fréedome would conſent</l>
+                        <l>If you would turn and go to Church,</l>
+                        <l>there to receive the Sacrament.</l>
+                     </lg>
+                     <lg>
+                        <l>And ſo <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>d night <hi>Arabella</hi> fair,</l>
+                        <l>our King to her replled again,</l>
+                        <l>I will take Counſel of my Nobility,</l>
+                        <l>that you your fréedome may obtain.</l>
+                     </lg>
+                     <lg>
+                        <l>O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ce more to Priſon muſt I go,</l>
+                        <l>Lady <hi>Arabella</hi> then did ſay,</l>
+                        <l>To leave my Love bréeds all my <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>,</l>
+                        <l>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>he which will be my lives decay.</l>
+                     </lg>
+                     <lg>
+                        <l>Love is a knot none can unknit,</l>
+                        <l>fancy a liking of the heart,</l>
+                        <l>He whom I love I cannot forget,</l>
+                        <l>though from his preſence I muſt p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>The meaneſt people enioy their mates,</l>
+                        <l>but I was born unhappily,</l>
+                        <l>For being croſt by cruel ſate,</l>
+                        <l>I want both love and liberty.</l>
+                     </lg>
+                     <lg>
+                        <l>But death I hope, will end the ſtrife,</l>
+                        <l>Farewel, f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rewel, dear love quoth <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </l>
+                        <l>Once had I thought to have béen thy wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </l>
+                        <l>but now am forc'd to part from the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</l>
+                     </lg>
+                     <lg>
+                        <l>At this ſad méeting ſhe had cauſe,</l>
+                        <l>in heart and mind to grieve full ſor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</l>
+                        <l>After that <hi>Arabella</hi> fair,</l>
+                        <l>did never ſée Lord <hi>Seymore</hi> more.</l>
+                     </lg>
+                     <trailer>FINIS.</trailer>
+                  </div>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
